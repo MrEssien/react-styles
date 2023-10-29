@@ -6,7 +6,7 @@ function AttentionGrabber() {
   return (
     <>
       <h1 className={styles.h1}>Hi! Welcome to my first portfolio!!</h1>
-      <p>I'm a developer who likes designing user-friendly websites.</p>
+      <p>I'm a developer who likes designing user-friendly websites!</p>
     </>
   )
 }
